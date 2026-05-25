@@ -1,18 +1,4 @@
 ## flutter_ecommerce_app
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/SinaSys/flutter_ecommerce_app">
-  <img src="https://img.shields.io/github/forks/SinaSys/flutter_ecommerce_app">
-  <img src="https://img.shields.io/github/actions/workflow/status/SinaSys/flutter_ecommerce_app/main.yml?branch=master&label=CI%20&logo=github">
-  <img src="https://img.shields.io/github/v/release/SinaSys/flutter_ecommerce_app?label=Release&logo=semantic-release">
-  <img src="https://img.shields.io/github/last-commit/SinaSys/flutter_ecommerce_app?label=Last%20commit">
-</p>
-
-
-
-E-Commerce app is a design implementation of [E-commerce App](https://dribbble.com/shots/15550702-E-commerce-Mobile-App) designed by [Billah](https://dribbble.com/designermasum)
-
-![](https://github.com/SinaSys/flutter_ecommerce_app/blob/master/screenshots/screenshot.png?raw=true)
 SCREENSHOTS
 <img width="217" height="480" alt="Screenshot 2026-05-25 204045" src="https://github.com/user-attachments/assets/ce8c536c-99b7-4107-b542-7076d304e330" />
 <img width="216" height="481" alt="Screenshot 2026-05-25 204055" src="https://github.com/user-attachments/assets/dd587ebd-d8c3-405a-97bc-595d1044e183" />
@@ -59,27 +45,3 @@ SCREENSHOTS
           └──product_controller.dart
 ```
 
-<br/>
-
-## Dependencies
-Package Name        |
-:-------------------------|
-|[GetX](https://pub.dev/packages/get) 
-|[stylish_bottom_bar](https://pub.dev/packages/stylish_bottom_bar) 
-|[smooth_page_indicator](https://pub.dev/packages/smooth_page_indicator)
-|[flutter_rating_bar](https://pub.dev/packages/flutter_rating_bar)
-|[font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
-|[animations](https://pub.dev/packages/animations)
-|[flutter_launcher_icons](https://pub.dev/packages/flutter_launcher_icons)
-
-<br/>
-
-## Created & Maintained By
-
-[SinaSys](https://github.com/SinaSys) 
-
-
-## Contributors
-• [mufarrah](https://github.com/mufarrah)
-<br/>
-<br/>
